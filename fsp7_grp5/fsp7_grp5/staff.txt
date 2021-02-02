@@ -1,0 +1,21 @@
+Staff ID: 1 | Name: Louis Chua | Gender: M | Role: M
+Staff ID: 2 | Name: Ashwin Wong | Gender: M | Role: M
+Staff ID: 3 | Name: Kevin Chua | Gender: F | Role: M
+Staff ID: 4 | Name: Cynthia Nur | Gender: M | Role: C
+Staff ID: 5 | Name: Daria Villa | Gender: F | Role: C
+Staff ID: 6 | Name: Reza Ang | Gender: M | Role: W
+Staff ID: 7 | Name: Anastasia Ang | Gender: M | Role: W
+Staff ID: 8 | Name: Louis Teo | Gender: F | Role: W
+Staff ID: 9 | Name: Louis Chia | Gender: F | Role: W
+Staff ID: 10 | Name: Berlin Tay | Gender: M | Role: W
+Staff ID: 11 | Name: Carlis Ang | Gender: M | Role: W
+Staff ID: 12 | Name: Daria Tay | Gender: M | Role: W
+Staff ID: 13 | Name: Cynthia Teo | Gender: M | Role: W
+Staff ID: 14 | Name: Carlis Lim | Gender: M | Role: W
+Staff ID: 15 | Name: Louis Ong | Gender: F | Role: W
+Staff ID: 16 | Name: Gregory Cruz | Gender: F | Role: W
+Staff ID: 17 | Name: Edward Ong | Gender: F | Role: W
+Staff ID: 18 | Name: Joseph Lim | Gender: F | Role: W
+Staff ID: 19 | Name: Louis Teo | Gender: F | Role: W
+Staff ID: 20 | Name: Berlin Jacobs | Gender: F | Role: W
+
